@@ -1,18 +1,8 @@
-# Think Post
+# React + Vite
 
-A simple blog web application built with **React** and **Appwrite**, allowing users to create, read, update, and delete (CRUD) blog posts. The app also includes authentication features for **login and signup**.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Features  
-- User authentication (Signup & Login)  
-- CRUD operations for blog posts  
-- Simple text-based content creation  
+Currently, two official plugins are available:
 
-## Upcoming Features  
-- Rich text editing (headings, lists, emojis, tables, etc.)  
-- Enhanced UI/UX for content creation  
-- Improved user experience with additional formatting options  
-
-## Tech Stack  
-- **Frontend:** React  
-- **Backend & Database:** Appwrite  
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
